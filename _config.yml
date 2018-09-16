@@ -18,12 +18,12 @@ avatar: images/profile_1_small.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: 
   facebook:
   flickr:
   github: yueqiw
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/yueqi-wang/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
